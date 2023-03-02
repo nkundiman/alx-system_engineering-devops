@@ -1,1 +1,1 @@
-0. Where am I?
+0x002 shell redirections readme file
